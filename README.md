@@ -1,38 +1,52 @@
-# 👨‍💻 Hey there ✌
-Welcome to my profile 😄, feel at home 🏠
+![👨‍💻 Hey there ✌, Welcome to my profile 😎, feel at home 🚪🏠](./github-header-image.png)
 
-## 🎓 Learning Progress
-Studing at FIAP as Software Engineering
+- 🔭 I’m currently working on [♟Chess Social Game](https://github.com/viniciusSimizu/Chess-Party)
+- 🌱 I’m currently learning Python, Sockets, Scalability, AWS
+- 💬 Ask me about Typescript/Data Structures
 
-Knowlodge Sources:
+## 🎓 I'm a Software Engineer at FIAP
+
+### Knowledge Sources:
 - 📺 Courses
 - 📖 Articles
 - 📝 Documentations
-- 🔨 Pratical Projects
+- 🔨 Practical Projects
 
-## Technologies
-<section style="display: flex;">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" style="height: 3rem;">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript" style="height: 3rem;">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="SQL" style="height: 3rem;">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker" style="height: 3rem;">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Linux" style="height: 3rem;">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="Hyper Text Markdown Language" style="height: 3rem;">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="Cascade Style Sheets" style="height: 3rem;">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" style="height: 3rem;">
+# 🏆 Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciusSimizu&show_icons=true&bg_color=30,001d3d,050910&title_color=FFFFF0&text_color=FFFFF0&rank_icon=github)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=viniciusSimizu&theme=blueberry-duo)](https://git.io/streak-stats)
+
+# 🔌 Connect with me on
+[![Discord](https://skillicons.dev/icons?i=discord)](https://discordapp.com/users/vinicius_simiz)
+[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/vinicius-simizu/)
+
+[![Email](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:viniciussimiz@gmail.com)
+
+
+# Technologies
+<section style="display: flex; flex-wrap: wrap;">
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="63" height="63" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="Javascript" width="63" height="63" />
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="Typescript" width="63" height="63" />
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="NodeJs"/>
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MySql"/>
+  <img src="https://skillicons.dev/icons?i=prisma" alt="Prisma"/>
+  <img src="https://skillicons.dev/icons?i=html" alt="Hyper Text Markup Language"/>
+  <img src="https://skillicons.dev/icons?i=css" alt="Cascade Style Sheets"/>
+  <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="Syntactically Awesome Style Sheets" width="63" height="63" />
+  <img src="https://skillicons.dev/icons?i=express" alt="Express"/>
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="63" height="63" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap"/>
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="63" height="63" />
+  <img src="https://skillicons.dev/icons?i=git" alt="Git"/>
+  <img src="https://skillicons.dev/icons?i=regex" alt="Regex"/>
+  <img src="https://skillicons.dev/icons?i=linux" alt="Linux"/>
+  <img src="https://skillicons.dev/icons?i=md" alt="Markdown"/>
 </section>
 
-<!--
-**viniciusSimizu/viniciusSimizu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusSimizu&layout=donut-vertical&theme=dark)](https://github.com/viniciusSimizu/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://komarev.com/ghpvc/?username=viniciusSimizu&color=blue&style=for-the-badge)
