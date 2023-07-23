@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on [♟Chess Social Game](https://github.com/viniciusSimizu/Chess-Party)
 - 🌱 I’m currently learning Python, Sockets, Scalability, AWS
-- 💬 Ask me about Typescript/Data Structures
+- 💬 Ask me about Typescript/Javascript
 
 ## 🎓 I'm a Software Engineer at FIAP
 
