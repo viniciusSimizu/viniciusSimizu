@@ -48,5 +48,6 @@
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusSimizu&layout=donut-vertical&theme=dark)](https://github.com/viniciusSimizu/github-readme-stats)
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=viniciusSimizu&theme=dark)](https://github.com/viniciusSimizu/leetcode-stats)
 
 ![](https://komarev.com/ghpvc/?username=viniciusSimizu&color=blue&style=for-the-badge)
