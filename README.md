@@ -18,7 +18,6 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=viniciusSimizu&theme=blueberry-duo)](https://git.io/streak-stats)
 
 # 🔌 Connect with me on
-[![Discord](https://skillicons.dev/icons?i=discord)](https://discordapp.com/users/vinicius_simiz)
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/vinicius-simizu/)
 
 [![Email](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:viniciussimiz@gmail.com)
