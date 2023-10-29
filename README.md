@@ -1,6 +1,6 @@
 ![👨‍💻 Hey there ✌, Welcome to my profile 😎, feel at home 🚪🏠](./github-header-image.png)
 
-- 🔭 I’m currently working on [♟Chess Social Game](https://github.com/viniciusSimizu/Chess-Party)
+- 🔭 I’m currently working on [♟Chess Social Game](https://github.com/viniciusSimizu/chess)
 - 🌱 I’m currently learning Python, Sockets, Scalability, AWS
 - 💬 Ask me about Typescript/Javascript
 
