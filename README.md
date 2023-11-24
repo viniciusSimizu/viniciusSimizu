@@ -2,8 +2,6 @@
 
 - 🔭 I’m currently working on [♟Chess Game](https://github.com/viniciusSimizu/chess-2)
 
-## 🎓 I'm a Software Engineer
-
 # 🏆 Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciusSimizu&show_icons=true&bg_color=30,001d3d,050910&title_color=FFFFF0&text_color=FFFFF0&rank_icon=github)
 
